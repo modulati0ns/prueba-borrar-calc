@@ -34,7 +34,7 @@ int main()
 		switch (choice)
 		{
 		case 1:
-			cout << "Result: " << num1 + num2 << endl;
+			cout << "Resultado: " << num1 + num2 << endl;
 			break;
 		case 2:
 			cout << "Result: " << num1 - num2 << endl;
